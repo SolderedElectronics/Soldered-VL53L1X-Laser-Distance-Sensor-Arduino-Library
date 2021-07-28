@@ -1,16 +1,4 @@
-##################################################
-# Syntax Coloring Map For Obstacle-Sensor-SOLDERED
-##################################################
-
-##################################################
-# Datatypes (KEYWORD1)
-##################################################
-
-VL53_L1X	KEYWORD1
-
-##################################################
-# Methods and Functions (KEYWORD2)
-##################################################
+VL53L1X	KEYWORD1
 
 setBus	KEYWORD2
 getBus	KEYWORD2
@@ -39,10 +27,6 @@ rangeStatusToString	KEYWORD2
 setTimeout	KEYWORD2
 getTimeout	KEYWORD2
 timeoutOccurred	KEYWORD2
-
-##################################################
-# Constants (LITERAL1)
-##################################################
 
 Short	LITERAL1
 Medium	LITERAL1

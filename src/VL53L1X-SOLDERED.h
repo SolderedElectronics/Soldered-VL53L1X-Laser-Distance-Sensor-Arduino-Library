@@ -5,21 +5,22 @@
  * @brief       Header file for sensor specific code.
  *
  *
- * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @copyright   GNU General Public License v3.0
+ * @authors     @ soldered.com, Robert Peric
  ***************************************************/
 
-#ifndef __SENSOR__
-#define __SENSOR__
+#ifndef _VL53_L1X_H
+#define _VL53_L1X_H
 
 #include "Arduino.h"
 #include "libs/Generic-easyC/easyC.h"
+#include "libs/vl53l1x-arduino/VL53L1X.h"
 
-class Sensor : public EasyC
+class VL53_L1X : public VL53L1X, public EasyC
 {
   public:
-    Sensor(int _pin);
-
+    VL53_L1X(int _pin);
+    VL53_L1X();
   protected:
     void initializeNative();
 
