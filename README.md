@@ -1,4 +1,4 @@
-# NAZIV PROIZVODA Arduino library
+# VL53L1X Arduino library
 
 [![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-VL53L1X-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-VL53L1X-Arduino-Library/actions/workflows/compile_test.yml)
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-VL53L1X-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-VL53L1X-Arduino-Library/actions/workflows/make_docs.yml)
