@@ -24,16 +24,18 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
+  [ "Soldered VL53L1X Arduino Library", "index.html", [
     [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
+        [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", null ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", "functions_eval" ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -44,7 +46,12 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html"
+"_v_l53_l1_x-_s_o_l_d_e_r_e_d_8cpp.html",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a28c8300c8ae5656ab74f2513cafc368e",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a5bbe8fc79587d6e0bc6c1397f793ff32",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a958e425e2742cd766c954baf24652320",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945acc02c149e7bc3abb08a8b2f014e7acd0",
+"class_v_l53_l1_x.html#a8f1c209ffb937d3c31012cbf30f8090e"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

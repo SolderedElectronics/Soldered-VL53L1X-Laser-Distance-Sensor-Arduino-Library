@@ -1,6 +1,21 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['i2c_5fslave_5f_5fdevice_5faddress_249',['I2C_SLAVE__DEVICE_ADDRESS',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a90238c76bc568d3eed66ee51acac8f6e',1,'VL53L1X']]],
+  ['identification_5f_5fmodel_5fid_250',['IDENTIFICATION__MODEL_ID',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a6a6e3f0736b863c01d9f7c875952bc30',1,'VL53L1X']]],
+  ['identification_5f_5fmodule_5fid_251',['IDENTIFICATION__MODULE_ID',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945abebb153b7f54932198508bf69957b3d9',1,'VL53L1X']]],
+  ['identification_5f_5fmodule_5fid_5fhi_252',['IDENTIFICATION__MODULE_ID_HI',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a1a1a1a933e7b1a49c7fcf1f98504a315',1,'VL53L1X']]],
+  ['identification_5f_5fmodule_5fid_5flo_253',['IDENTIFICATION__MODULE_ID_LO',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a3000428da878d20db4b015cdf89c9eeb',1,'VL53L1X']]],
+  ['identification_5f_5fmodule_5ftype_254',['IDENTIFICATION__MODULE_TYPE',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a6f19e801277bf5efa4b8871fa5ea7d25',1,'VL53L1X']]],
+  ['identification_5f_5frevision_5fid_255',['IDENTIFICATION__REVISION_ID',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a08fe85c7291097e9349e63102d5712f3',1,'VL53L1X']]],
+  ['init_256',['init',['../class_v_l53_l1_x.html#a4992308da8e4ae7ea2c05b978b84924f',1,'VL53L1X']]],
+  ['initializenative_257',['initializeNative',['../class_v_l53___l1_x.html#a81c97d86ec646e49703fb1c68fbaec20',1,'VL53_L1X::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]],
+  ['interrupt_5fmanager_5f_5fclear_258',['INTERRUPT_MANAGER__CLEAR',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a081b45ba75092edb5fd0ced2d9bb061d',1,'VL53L1X']]],
+  ['interrupt_5fmanager_5f_5fenables_259',['INTERRUPT_MANAGER__ENABLES',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a667ba96e4e630cc2ec7e38f8b7fb01b5',1,'VL53L1X']]],
+  ['interrupt_5fmanager_5f_5fstatus_260',['INTERRUPT_MANAGER__STATUS',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a4beefd14cd644aa0acfa4f8170d956c5',1,'VL53L1X']]],
+  ['interrupt_5fscheduler_5f_5fdata_5fout_261',['INTERRUPT_SCHEDULER__DATA_OUT',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a7e9d49e7bd52aa755104467aac5402ec',1,'VL53L1X']]],
+  ['interrupt_5fscheduler_5f_5fdata_5fout_5f0_262',['INTERRUPT_SCHEDULER__DATA_OUT_0',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a1b6b69c60f5289244efc1979904fa6e2',1,'VL53L1X']]],
+  ['interrupt_5fscheduler_5f_5fdata_5fout_5f1_263',['INTERRUPT_SCHEDULER__DATA_OUT_1',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945af2fd14fb3f32b4072c07bf3038347ad3',1,'VL53L1X']]],
+  ['interrupt_5fscheduler_5f_5fdata_5fout_5f2_264',['INTERRUPT_SCHEDULER__DATA_OUT_2',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a28c8300c8ae5656ab74f2513cafc368e',1,'VL53L1X']]],
+  ['interrupt_5fscheduler_5f_5fdata_5fout_5f3_265',['INTERRUPT_SCHEDULER__DATA_OUT_3',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945ae67b0962a79375cd6a38e3105fe2fc64',1,'VL53L1X']]],
+  ['io_5ftimeout_266',['io_timeout',['../class_v_l53_l1_x.html#ae0044e791232e250f73635a43a8a5ad7',1,'VL53L1X']]]
 ];
