@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Soldered VL53L1X Arduino Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
+    [ "VL53L1X Arduino library", "index.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
