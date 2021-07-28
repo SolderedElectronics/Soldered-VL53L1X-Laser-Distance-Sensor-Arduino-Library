@@ -21,6 +21,7 @@ class VL53_L1X : public VL53L1X, public EasyC
   public:
     VL53_L1X(int _pin);
     VL53_L1X();
+
   protected:
     void initializeNative();
 
