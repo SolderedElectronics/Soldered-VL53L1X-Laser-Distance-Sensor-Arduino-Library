@@ -1,32 +1,40 @@
 /**
  **************************************************
  *
- * @file        Generic-easyC-SOLDERED.cpp
- * @brief       Example functions to overload in base class.
+ * @file        VL53L1X-SOLDERED.cpp
+ * @brief       Soldered VL53L1X Arduino Library for controling VL53L1X Sensor.
  *
  *
- * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @copyright   GNU General Public License v3.0
+ * @authors     @ soldered.com, Robert Peric
  ***************************************************/
 
 
-#include "Generic-easyC-SOLDERED.h"
+#include "VL53L1X-SOLDERED.h"
 
 /**
  * @brief                   Sensor specific native constructor.
  *
  * @param int _pin          Example parameter.
  */
-Sensor::Sensor(int _pin)
+VL53_L1X::VL53_L1X(int _pin)
 {
     pin = _pin;
     native = 1;
 }
 
 /**
+ * @brief                   Sensor specific native constructor.
+ *
+ */
+VL53_L1X::VL53_L1X()
+{
+}
+
+/**
  * @brief                   Overloaded function for virtual in base class to initialize sensor specific.
  */
-void Sensor::initializeNative()
+void VL53_L1X::initializeNative()
 {
     pinMode(pin, INPUT);
 }
