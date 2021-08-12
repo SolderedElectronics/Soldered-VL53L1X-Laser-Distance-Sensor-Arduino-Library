@@ -16,7 +16,7 @@
 #include "libs/Generic-easyC/easyC.h"
 #include "libs/vl53l1x-arduino/VL53L1X.h"
 
-class VL53_L1X : public VL53L1X, public EasyC
+class VL53_L1X : public VL53L1X, public VL53L1X_SOLDERED_LIBS::EasyC
 {
   public:
     VL53_L1X(int _pin);

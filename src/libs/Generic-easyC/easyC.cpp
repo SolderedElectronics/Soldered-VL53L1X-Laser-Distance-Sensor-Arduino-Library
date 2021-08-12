@@ -11,6 +11,9 @@
 
 #include "easyC.h"
 
+namespace VL53L1X_SOLDERED_LIBS
+{
+
 /**
  * @brief       Main constructor for easyC version
  *
@@ -113,3 +116,5 @@ int EasyC::sendData(const uint8_t *a, int n)
 
     return err = Wire.endTransmission();
 }
+
+} // namespace VL53L1X_SOLDERED_LIBS

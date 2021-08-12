@@ -18,6 +18,9 @@
 #define ANALOG_READ_REG  0
 #define DIGITAL_READ_REG 1
 
+namespace VL53L1X_SOLDERED_LIBS
+{
+
 class EasyC
 {
   public:
@@ -42,5 +45,7 @@ class EasyC
     int sendData(const uint8_t *a, int n);
     int readRegister(char regAddr, char a[], size_t n);
 };
+
+} // namespace VL53L1X_SOLDERED_LIBS
 
 #endif
