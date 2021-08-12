@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['address_0',['address',['../class_v_l53_l1_x.html#af23ec43f9a90c35dbe462b979432d830',1,'VL53L1X::address()'],['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC::address()']]],
+  ['address_0',['address',['../class_v_l53_l1_x.html#af23ec43f9a90c35dbe462b979432d830',1,'VL53L1X::address()'],['../class_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#aa3ff2f6aef8987810b0230feca28a540',1,'VL53L1X_SOLDERED_LIBS::EasyC::address()']]],
   ['addressdefault_1',['AddressDefault',['../class_v_l53_l1_x.html#a808acb493ddd903ab42a783d10f918b6',1,'VL53L1X']]],
   ['algo_5f_5fconsistency_5fcheck_5f_5ftolerance_2',['ALGO__CONSISTENCY_CHECK__TOLERANCE',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a08cec37488f77d63f7edbd7de705661b',1,'VL53L1X']]],
   ['algo_5f_5fcrosstalk_5fcompensation_5fplane_5foffset_5fkcps_3',['ALGO__CROSSTALK_COMPENSATION_PLANE_OFFSET_KCPS',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a0f73da2bb4a88fa13985827662601873',1,'VL53L1X']]],

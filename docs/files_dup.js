@@ -2,7 +2,7 @@ var files_dup =
 [
     [ "easyC.cpp", "easy_c_8cpp.html", null ],
     [ "easyC.h", "easy_c_8h.html", [
-      [ "EasyC", "class_easy_c.html", "class_easy_c" ]
+      [ "EasyC", "class_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html", "class_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c" ]
     ] ],
     [ "VL53L1X-SOLDERED.cpp", "_v_l53_l1_x-_s_o_l_d_e_r_e_d_8cpp.html", null ],
     [ "VL53L1X-SOLDERED.h", "_v_l53_l1_x-_s_o_l_d_e_r_e_d_8h.html", [

@@ -21,5 +21,6 @@ var searchData=
   ['vl53l1x_2dsoldered_2ecpp_1269',['VL53L1X-SOLDERED.cpp',['../_v_l53_l1_x-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
   ['vl53l1x_2dsoldered_2eh_1270',['VL53L1X-SOLDERED.h',['../_v_l53_l1_x-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
   ['vl53l1x_2ecpp_1271',['VL53L1X.cpp',['../_v_l53_l1_x_8cpp.html',1,'']]],
-  ['vl53l1x_2eh_1272',['VL53L1X.h',['../_v_l53_l1_x_8h.html',1,'']]]
+  ['vl53l1x_2eh_1272',['VL53L1X.h',['../_v_l53_l1_x_8h.html',1,'']]],
+  ['vl53l1x_5fsoldered_5flibs_1273',['VL53L1X_SOLDERED_LIBS',['../namespace_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s.html',1,'']]]
 ];

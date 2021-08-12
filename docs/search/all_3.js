@@ -3,7 +3,7 @@ var searchData=
   ['dataready_52',['dataReady',['../class_v_l53_l1_x.html#a41b1f4f90e6813d7853bdfa0211a24ac',1,'VL53L1X']]],
   ['debug_5f_5fctrl_53',['DEBUG__CTRL',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a68329023e530c30c5e6c35135bd78b7f',1,'VL53L1X']]],
   ['decodetimeout_54',['decodeTimeout',['../class_v_l53_l1_x.html#a66c196243ca38fe425273ef8af7ed294',1,'VL53L1X']]],
-  ['defaultaddress_55',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
+  ['defaultaddress_55',['defaultAddress',['../class_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a2aaf4b24b395edc6910e22e960a22e0b',1,'VL53L1X_SOLDERED_LIBS::EasyC']]],
   ['did_5ftimeout_56',['did_timeout',['../class_v_l53_l1_x.html#afaefd01da729af96536141f8e4a491af',1,'VL53L1X']]],
   ['distance_5fmode_57',['distance_mode',['../class_v_l53_l1_x.html#a317a78f413ef438a8d69bd45fef5cd5d',1,'VL53L1X']]],
   ['distancemode_58',['DistanceMode',['../class_v_l53_l1_x.html#a0c5b0ae553612b1343f1d7d9c12c74bb',1,'VL53L1X']]],
