@@ -2,7 +2,8 @@
  **************************************************
  *
  * @file        ReadDistance.ino
- * @brief       Exmaple that shows how to use VL53_L1X library with VL53L1X sensor to read distance, best to use in low ambient light setting to get better results
+ * @brief       Exmaple that shows how to use VL53_L1X library with VL53L1X sensor to read distance, best to use in low
+ *ambient light setting to get better results
  *
  *
  *
@@ -19,19 +20,10 @@ void setup()
 {
     Serial.begin(115200);
     Serial.println("Serial Initialised");
-    Wire.begin();
 
     myVl.setTimeout(500);
-    if (!myVl.init())
-    {
-        Serial.println("Failed to detect and initialize sensor!");
-        while (1)
-            ;
-    }
-    else
-    {
-        Serial.println("Sensor Initialised");
-    }
+    myVl.begin();
+
     // Use long distance mode and allow up to 50000 us (50 ms) for a measurement.
     // You can change these settings to adjust the performance of the sensor, but
     // the minimum timing budget is 20 ms for short distance mode and 33 ms for

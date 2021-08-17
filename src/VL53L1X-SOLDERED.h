@@ -19,14 +19,16 @@
 class VL53_L1X : public VL53L1X, public VL53L1X_SOLDERED_LIBS::EasyC
 {
   public:
-    VL53_L1X(int _pin);
     VL53_L1X();
 
-  protected:
-    void initializeNative();
+    void begin()
+    {
+        EasyC::begin();
+        VL53_L1X::init();
+    }
 
-  private:
-    int pin;
+  protected:
+    void initializeNative(){};
 };
 
 #endif

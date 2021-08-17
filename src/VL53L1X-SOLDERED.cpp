@@ -15,26 +15,7 @@
 /**
  * @brief                   Sensor specific native constructor.
  *
- * @param int _pin          Example parameter.
- */
-VL53_L1X::VL53_L1X(int _pin)
-{
-    pin = _pin;
-    native = 1;
-}
-
-/**
- * @brief                   Sensor specific native constructor.
- *
  */
 VL53_L1X::VL53_L1X()
 {
-}
-
-/**
- * @brief                   Overloaded function for virtual in base class to initialize sensor specific.
- */
-void VL53_L1X::initializeNative()
-{
-    pinMode(pin, INPUT);
 }
