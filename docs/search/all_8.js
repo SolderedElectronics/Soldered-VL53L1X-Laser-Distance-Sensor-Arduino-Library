@@ -8,7 +8,7 @@ var searchData=
   ['identification_5f_5fmodule_5ftype_254',['IDENTIFICATION__MODULE_TYPE',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a6f19e801277bf5efa4b8871fa5ea7d25',1,'VL53L1X']]],
   ['identification_5f_5frevision_5fid_255',['IDENTIFICATION__REVISION_ID',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a08fe85c7291097e9349e63102d5712f3',1,'VL53L1X']]],
   ['init_256',['init',['../class_v_l53_l1_x.html#a4992308da8e4ae7ea2c05b978b84924f',1,'VL53L1X']]],
-  ['initializenative_257',['initializeNative',['../class_v_l53___l1_x.html#a81c97d86ec646e49703fb1c68fbaec20',1,'VL53_L1X::initializeNative()'],['../class_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a932d82bc9925de7e47050689ff1c2682',1,'VL53L1X_SOLDERED_LIBS::EasyC::initializeNative()']]],
+  ['initializenative_257',['initializeNative',['../class_v_l53_l1_x___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a932d82bc9925de7e47050689ff1c2682',1,'VL53L1X_SOLDERED_LIBS::EasyC']]],
   ['interrupt_5fmanager_5f_5fclear_258',['INTERRUPT_MANAGER__CLEAR',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a081b45ba75092edb5fd0ced2d9bb061d',1,'VL53L1X']]],
   ['interrupt_5fmanager_5f_5fenables_259',['INTERRUPT_MANAGER__ENABLES',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a667ba96e4e630cc2ec7e38f8b7fb01b5',1,'VL53L1X']]],
   ['interrupt_5fmanager_5f_5fstatus_260',['INTERRUPT_MANAGER__STATUS',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a4beefd14cd644aa0acfa4f8170d956c5',1,'VL53L1X']]],
