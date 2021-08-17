@@ -13,22 +13,18 @@
 #define _VL53_L1X_H
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
 #include "libs/vl53l1x-arduino/VL53L1X.h"
 
-class VL53_L1X : public VL53L1X, public VL53L1X_SOLDERED_LIBS::EasyC
+class VL53_L1X : public VL53L1X
 {
   public:
     VL53_L1X();
 
     void begin()
     {
-        EasyC::begin();
+        Wire.begin();
         VL53_L1X::init();
     }
-
-  protected:
-    void initializeNative(){};
 };
 
 #endif
