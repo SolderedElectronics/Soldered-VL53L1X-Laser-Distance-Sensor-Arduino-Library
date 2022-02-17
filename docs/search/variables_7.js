@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['last_5fstatus_1378',['last_status',['../class_v_l53_l1_x.html#a04e793c00e552145e39609be78fa1b07',1,'VL53L1X']]]
+  ['last_5fstatus_0',['last_status',['../class_v_l53_l1_x.html#a04e793c00e552145e39609be78fa1b07',1,'VL53L1X']]]
 ];

@@ -26,9 +26,6 @@ var NAVTREE =
 [
   [ "Soldered VL53L1X Arduino Library", "index.html", [
     [ "VL53L1X Arduino library", "index.html", null ],
-    [ "Namespaces", "namespaces.html", [
-      [ "Namespace List", "namespaces.html", "namespaces_dup" ]
-    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -50,11 +47,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_v_l53_l1_x-_s_o_l_d_e_r_e_d_8cpp.html",
-"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a2bd79656800a68c1b81dd028c9d36647",
-"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a62402a5e9a393e93717b34e9544cad69",
-"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a9a021b2ff2e6848f375170d3aff016bd",
-"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945ace606ac43684c86fc3eb36dabcbd5945",
-"class_v_l53_l1_x.html#ad4ede5010d709b113358e5c8d0b44a86"
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a2960cb67f0fc0fd8c9c75b6508359735",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a5c82bac82fbc9cd50791341bdd19b96b",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a9677497cdc4b12d9568fd03fb3251898",
+"class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945acc9c250ed826edb5d89f29acff829860",
+"class_v_l53_l1_x.html#a9123030897c29e5defa3805c5160a034"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

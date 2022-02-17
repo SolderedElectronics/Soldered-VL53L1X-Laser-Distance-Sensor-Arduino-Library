@@ -1218,7 +1218,7 @@ var class_v_l53_l1_x =
     [ "decodeTimeout", "class_v_l53_l1_x.html#a66c196243ca38fe425273ef8af7ed294", null ],
     [ "encodeTimeout", "class_v_l53_l1_x.html#a4a9883c53622f36f1d26ea34c912b0b8", null ],
     [ "getAddress", "class_v_l53_l1_x.html#afd1c7628bfac6dd9b37ad67f03c2251a", null ],
-    [ "getBus", "class_v_l53_l1_x.html#a0ce7dc17c804540cefda12b57e3ab32f", null ],
+    [ "getBus", "class_v_l53_l1_x.html#a94dc24472be989526ea57465bb9c61e0", null ],
     [ "getDistanceMode", "class_v_l53_l1_x.html#ae2e75c9eceb9841a9a6fd71a74b81fa0", null ],
     [ "getMeasurementTimingBudget", "class_v_l53_l1_x.html#a0b3078d55fd4228c683ce660d54f9609", null ],
     [ "getRangingData", "class_v_l53_l1_x.html#a8fa7e738806e80f04552e971b6eab891", null ],
