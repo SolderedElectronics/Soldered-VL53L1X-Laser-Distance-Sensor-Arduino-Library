@@ -7,7 +7,7 @@
 | :---------------------------------------------------------------------------------------------: |
 | [VL53L1X Laser Distance](https://www.solde.red/333064)                                                            |
 
-VL53L1X [easyC ecosystem](https://www.soldered.com/easyC). 
+VL53L1X Laser Distance [easyC ecosystem](https://www.soldered.com/easyC). 
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
