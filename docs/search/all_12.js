@@ -17,7 +17,7 @@ var searchData=
   ['vhv_5fresult_5f_5fsignal_5ftotal_5fevents_5fref_5f3_14',['VHV_RESULT__SIGNAL_TOTAL_EVENTS_REF_3',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945acdf1d49e597f60efc248f89c536d0cb8',1,'VL53L1X']]],
   ['vl53_5fl1x_15',['VL53_L1X',['../class_v_l53___l1_x.html#a02766646ca211a91e1915b65498c96cb',1,'VL53_L1X::VL53_L1X()'],['../class_v_l53___l1_x.html',1,'VL53_L1X']]],
   ['vl53l1x_16',['VL53L1X',['../class_v_l53_l1_x.html#a778c89fc1d16dee570adaec2702d928f',1,'VL53L1X::VL53L1X()'],['../class_v_l53_l1_x.html',1,'VL53L1X']]],
-  ['vl53l1x_20arduino_20library_17',['VL53L1X Arduino library',['../index.html',1,'']]],
+  ['vl53l1x_20laser_20distance_20arduino_20library_17',['VL53L1X Laser Distance Arduino library',['../index.html',1,'']]],
   ['vl53l1x_2dsoldered_2ecpp_18',['VL53L1X-SOLDERED.cpp',['../_v_l53_l1_x-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
   ['vl53l1x_2dsoldered_2eh_19',['VL53L1X-SOLDERED.h',['../_v_l53_l1_x-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
   ['vl53l1x_2ecpp_20',['VL53L1X.cpp',['../_v_l53_l1_x_8cpp.html',1,'']]],
