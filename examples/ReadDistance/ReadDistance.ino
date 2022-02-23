@@ -40,8 +40,8 @@ void setup()
 
 void loop()
 {
-    Serial.print(myVl.read());
-    if (myVl.timeoutOccurred())
+    Serial.print(myVl.read());  //Print reading
+    if (myVl.timeoutOccurred()) //Check if sensor has been measuring longer than timeout period
     {
         Serial.print(" TIMEOUT");
     }
