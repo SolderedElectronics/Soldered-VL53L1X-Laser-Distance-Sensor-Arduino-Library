@@ -25,7 +25,9 @@
 var NAVTREE =
 [
   [ "Soldered VL53L1X Arduino Library", "index.html", [
-    [ "VL53L1X Laser Distance Arduino library", "index.html", null ],
+    [ "Laser distance sensor VL53L1X breakout Arduino library", "index.html", [
+      [ "Have fun!", "index.html#autotoc_md8", null ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
