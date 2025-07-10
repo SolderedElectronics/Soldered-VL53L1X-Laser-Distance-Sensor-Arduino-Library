@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['wraptargetfail_0',['WrapTargetFail',['../class_v_l53_l1_x.html#aebe19bf26b9d89b3a464014035aed6cba2bcb8a7ca7af6aca85a110d7392fd476',1,'VL53L1X']]],
-  ['writereg_1',['writeReg',['../class_v_l53_l1_x.html#a48032917a44757169a336969f4d3d0f4',1,'VL53L1X']]],
-  ['writereg16bit_2',['writeReg16Bit',['../class_v_l53_l1_x.html#a1545772dc19af7d6b21d7fe798b29245',1,'VL53L1X']]],
-  ['writereg32bit_3',['writeReg32Bit',['../class_v_l53_l1_x.html#a99d2d945018c3386c06419521e2d18c5',1,'VL53L1X']]]
+  ['unknown_0',['Unknown',['../class_v_l53_l1_x.html#a0c5b0ae553612b1343f1d7d9c12c74bbac4898a735f4c2386b631ac8e0a66a55a',1,'VL53L1X']]],
+  ['updatedss_1',['updateDSS',['../class_v_l53_l1_x.html#abc6097ff54cfbeeaa0dc0430121a3855',1,'VL53L1X']]]
 ];

@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['laser_20distance_20sensor_20vl53l1x_20breakout_20arduino_20library_0',['Laser distance sensor VL53L1X breakout Arduino library',['../index.html',1,'']]],
-  ['laser_5fsafety_5f_5fclip_1',['LASER_SAFETY__CLIP',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a8deb36e336aa04ade438b502573637f9',1,'VL53L1X']]],
-  ['laser_5fsafety_5f_5fkey_2',['LASER_SAFETY__KEY',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a8f7f3f8efd5bef9113173bded2b4bed0',1,'VL53L1X']]],
-  ['laser_5fsafety_5f_5fkey_5fro_3',['LASER_SAFETY__KEY_RO',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945ab8851522d17aa42b0418d2aa14904b10',1,'VL53L1X']]],
-  ['laser_5fsafety_5f_5fmult_4',['LASER_SAFETY__MULT',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945a8d32661002bc118c33dda3f1102c7af5',1,'VL53L1X']]],
-  ['last_5fstatus_5',['last_status',['../class_v_l53_l1_x.html#a04e793c00e552145e39609be78fa1b07',1,'VL53L1X']]],
-  ['long_6',['Long',['../class_v_l53_l1_x.html#a0c5b0ae553612b1343f1d7d9c12c74bba7d0b5f5ab10ca02db34f154f971b6ae2',1,'VL53L1X']]]
+  ['hardware_0',['Hardware',['..//github/workspace/gh-pages/src/libs/vl53l1x-arduino/README.md#autotoc_md13',1,'']]],
+  ['hardware_20design_1',['Hardware design',['../index.html#autotoc_md2',1,'']]],
+  ['hardwarefail_2',['HardwareFail',['../class_v_l53_l1_x.html#aebe19bf26b9d89b3a464014035aed6cbae1838c6444aa93f87226d67e857f8110',1,'VL53L1X']]],
+  ['have_20fun_3',['Have fun!',['../index.html#autotoc_md8',1,'']]],
+  ['history_4',['Version history',['..//github/workspace/gh-pages/src/libs/vl53l1x-arduino/README.md#autotoc_md20',1,'']]],
+  ['host_5fif_5f_5fstatus_5',['HOST_IF__STATUS',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945aa804ade3d894813d32d534579efaee7b',1,'VL53L1X']]],
+  ['host_5fif_5f_5fstatus_5fgo1_6',['HOST_IF__STATUS_GO1',['../class_v_l53_l1_x.html#a630fe91f7dda45c2bab28dc4b906c945abe493fa5e0afe6371c684290a984cfa9',1,'VL53L1X']]]
 ];

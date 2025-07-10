@@ -54,5 +54,5 @@ var NAVTREEINDEX =
 "class_v_l53_l1_x.html#a9123030897c29e5defa3805c5160a034"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
